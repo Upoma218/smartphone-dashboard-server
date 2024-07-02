@@ -10,7 +10,7 @@
 
 ---
 
-[https://github.com/Porgramming-Hero-web-course/l2-b2-assignment-6-backend-Upoma218](https://github.com/Porgramming-Hero-web-course/l2-b2-assignment-6-backend-Upoma218)
+[https://github.com/Upoma218/smartphone-dashboard-server](https://github.com/Upoma218/smartphone-dashboard-server)
 
 ## Smartphone Management Dashboard Client side Live link:
 
@@ -190,4 +190,5 @@ git clone "paste the repo link here"`
 - Add other environment variables in `.env` file
 - Run the project by this command: `npm run dev`
 - Project will run at :[http://localhost:5000](http://localhost:5000)# l2-b2-assignment-6-backend-Upoma218
+
 # smartphone-dashboard-server
